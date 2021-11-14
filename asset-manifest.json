@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Prism-Riot/static/css/main.9c706c0c.chunk.css",
-    "main.js": "/Prism-Riot/static/js/main.fb22e2ac.chunk.js",
-    "main.js.map": "/Prism-Riot/static/js/main.fb22e2ac.chunk.js.map",
+    "main.css": "/Prism-Riot/static/css/main.85d166da.chunk.css",
+    "main.js": "/Prism-Riot/static/js/main.bc520a65.chunk.js",
+    "main.js.map": "/Prism-Riot/static/js/main.bc520a65.chunk.js.map",
     "runtime-main.js": "/Prism-Riot/static/js/runtime-main.210860d4.js",
     "runtime-main.js.map": "/Prism-Riot/static/js/runtime-main.210860d4.js.map",
     "static/js/2.b5fbabf1.chunk.js": "/Prism-Riot/static/js/2.b5fbabf1.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.8e1e1115.chunk.js": "/Prism-Riot/static/js/3.8e1e1115.chunk.js",
     "static/js/3.8e1e1115.chunk.js.map": "/Prism-Riot/static/js/3.8e1e1115.chunk.js.map",
     "index.html": "/Prism-Riot/index.html",
-    "static/css/main.9c706c0c.chunk.css.map": "/Prism-Riot/static/css/main.9c706c0c.chunk.css.map",
+    "static/css/main.85d166da.chunk.css.map": "/Prism-Riot/static/css/main.85d166da.chunk.css.map",
     "static/js/2.b5fbabf1.chunk.js.LICENSE.txt": "/Prism-Riot/static/js/2.b5fbabf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.210860d4.js",
     "static/js/2.b5fbabf1.chunk.js",
-    "static/css/main.9c706c0c.chunk.css",
-    "static/js/main.fb22e2ac.chunk.js"
+    "static/css/main.85d166da.chunk.css",
+    "static/js/main.bc520a65.chunk.js"
   ]
 }
