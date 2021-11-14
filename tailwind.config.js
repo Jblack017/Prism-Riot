@@ -9,7 +9,7 @@ module.exports = {
       }),
       fontFamily: {
         tourney: ['"Tourney"', "cursive"],
-        CinzelDecorative: ["Cinzel Decorative", "cursive"],
+        CinzelDecorative: ["Cinzel\\ Decorative", "cursive"],
       },
       backgroundColor: theme => ({
         primary: "#fe5e56",
