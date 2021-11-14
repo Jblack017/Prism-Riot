@@ -1,13 +1,11 @@
 import React from "react";
-import Nav from "./Nav";
+import Hexagon from "./Hexagon";
+import Title from "./Title";
 
 export default function Header() {
   return (
-    <div className='flex text-celadon font-tourney '>
-      <div className='absolute place-self-end h-24 w-24'>
-        <div className='hexagon'></div>
-      </div>
-      <Nav />
+    <div className='bg-Cultured font-tourney'>
+      <Title />
     </div>
   );
 }

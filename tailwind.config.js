@@ -9,6 +9,7 @@ module.exports = {
       }),
       fontFamily: {
         tourney: ['"Tourney"', "cursive"],
+        CinzelDecorative: ["Cinzel Decorative", "cursive"],
       },
       backgroundColor: theme => ({
         primary: "#fe5e56",
@@ -48,6 +49,9 @@ module.exports = {
         light: "#fd6afd",
         DEFAULT: "#009ed6",
         dark: "#b131b1",
+      },
+      Cultured: {
+        DEFAULT: "#F2F7F6",
       },
       "Dark-Purple": {
         DEFAULT: "#1E152A",
