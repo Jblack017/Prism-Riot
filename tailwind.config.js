@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       backgroundImage: theme => ({
         // Enter an Image into the bank
-        // "retro-digital": "url('./img/retro_digital.gif')",
+        "landing-photo": "url('./pages/home/Landing_Photo.jpg')",
       }),
       fontFamily: {
         tourney: ['"Tourney"', "cursive"],
