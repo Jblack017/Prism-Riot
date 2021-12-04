@@ -4,7 +4,7 @@ import Home from "./pages/home/Home";
 import Location from "./pages/location/Location";
 import ElevenAustralia from "./pages/products/ElevenAustralia";
 import LivingProof from "./pages/products/LivingProof";
-import Menu from "./pages/services/Menu";
+import Services from "./pages/services/Services";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Location />
       <ElevenAustralia />
       <LivingProof />
-      <Menu />
+      <Services />
     </div>
   );
 }
