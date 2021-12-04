@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Prism-Riot/static/css/main.f8cab02f.chunk.css",
-    "main.js": "/Prism-Riot/static/js/main.7f2cb53d.chunk.js",
-    "main.js.map": "/Prism-Riot/static/js/main.7f2cb53d.chunk.js.map",
+    "main.css": "/Prism-Riot/static/css/main.93fbf71e.chunk.css",
+    "main.js": "/Prism-Riot/static/js/main.19a42671.chunk.js",
+    "main.js.map": "/Prism-Riot/static/js/main.19a42671.chunk.js.map",
     "runtime-main.js": "/Prism-Riot/static/js/runtime-main.210860d4.js",
     "runtime-main.js.map": "/Prism-Riot/static/js/runtime-main.210860d4.js.map",
     "static/js/2.b5fbabf1.chunk.js": "/Prism-Riot/static/js/2.b5fbabf1.chunk.js",
@@ -10,15 +10,16 @@
     "static/js/3.8e1e1115.chunk.js": "/Prism-Riot/static/js/3.8e1e1115.chunk.js",
     "static/js/3.8e1e1115.chunk.js.map": "/Prism-Riot/static/js/3.8e1e1115.chunk.js.map",
     "index.html": "/Prism-Riot/index.html",
-    "static/css/main.f8cab02f.chunk.css.map": "/Prism-Riot/static/css/main.f8cab02f.chunk.css.map",
+    "static/css/main.93fbf71e.chunk.css.map": "/Prism-Riot/static/css/main.93fbf71e.chunk.css.map",
     "static/js/2.b5fbabf1.chunk.js.LICENSE.txt": "/Prism-Riot/static/js/2.b5fbabf1.chunk.js.LICENSE.txt",
     "static/media/Eleven_Australia.0f05f916.png": "/Prism-Riot/static/media/Eleven_Australia.0f05f916.png",
+    "static/media/index.css": "/Prism-Riot/static/media/Landing_Photo.ff350dc5.jpg",
     "static/media/logo-living-proof-logo-600x315.04dd1675.png": "/Prism-Riot/static/media/logo-living-proof-logo-600x315.04dd1675.png"
   },
   "entrypoints": [
     "static/js/runtime-main.210860d4.js",
     "static/js/2.b5fbabf1.chunk.js",
-    "static/css/main.f8cab02f.chunk.css",
-    "static/js/main.7f2cb53d.chunk.js"
+    "static/css/main.93fbf71e.chunk.css",
+    "static/js/main.19a42671.chunk.js"
   ]
 }
