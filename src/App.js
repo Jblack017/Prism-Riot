@@ -1,20 +1,14 @@
 import "./App.css";
-import About from "./pages/contact/About";
-import Home from "./pages/home/Home";
-import Location from "./pages/location/Location";
-import ElevenAustralia from "./pages/products/ElevenAustralia";
-import LivingProof from "./pages/products/LivingProof";
-import Services from "./pages/services/Services";
+import Footer from "./pages/main/Footer";
+import Header from "./pages/main/Header";
+import Body from "./pages/main/Body";
 
 function App() {
   return (
     <div className='App'>
-      <Home />
-      <About />
-      <Location />
-      <ElevenAustralia />
-      <LivingProof />
-      <Services />
+      <Header />
+      <Body />
+      <Footer />
     </div>
   );
 }

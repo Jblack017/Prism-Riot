@@ -10,6 +10,12 @@ module.exports = {
       fontFamily: {
         tourney: ['"Tourney"', "cursive"],
         CinzelDecorative: ["Cinzel\\ Decorative", "cursive"],
+        WireOne: ["Wire\\ One", "cursive"],
+        Cinzel: ["Cinzel", "cursive"],
+        PoiretOne: ["Poiret\\ One", "cursive"],
+        ormorantSC: ["ormorant\\ SC", "cursive"],
+        Khand: ["Khand", "cursive"],
+        Italiana: ["Italiana", "cursive"],
       },
       backgroundColor: theme => ({
         primary: "#fe5e56",
@@ -61,6 +67,12 @@ module.exports = {
       },
       celadon: {
         DEFAULT: "#ACF7C1",
+      },
+      white: {
+        DEFAULT: "#fff",
+      },
+      black: {
+        DEFAULT: "#000",
       },
     },
   },
