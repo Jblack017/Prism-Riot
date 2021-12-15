@@ -10,14 +10,16 @@ export default function GlossImages() {
     return imageNumbers.map(num => {
       return (
         <img
+          className='h-1/2 w-1/2 snap-center'
           src={`https://haubby-production-v1.s3.amazonaws.com/portfolio_images/images/000/607/${num}/medium/data`}
+          alt={`PrismRiot Customer ${num}`}
         />
       );
     });
   };
 
   return (
-    <div className='flex flex-col h-screen w-screen text-white'>
+    <div className='flex flex-nowrap overflow-scroll space-x-1.5 snap-x w-screen'>
       {renderImages()}
     </div>
   );
