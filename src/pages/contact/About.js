@@ -10,7 +10,7 @@ export default function About() {
         </div>
         <div className=''>
           <img
-            className='w-max'
+            className='w-min'
             src={GlossGeniusLogo}
             alt='Gloss Genius Link'
           />
@@ -18,7 +18,6 @@ export default function About() {
       </div>
 
       <ul>
-        <li>Gloss Genius Booking Link</li>
         <li>Picture of Janksta!</li>
         <li>Bio</li>
         <li>Small Social Links</li>
