@@ -1,7 +1,6 @@
 {
   "name": "prism-riot-fe",
   "author": "Joshua Blackham <blackhamjoshua@comcast.net> (https://blackhamjoshua.tech/)",
-  "homepage": "https://jbalck017.github.io/Prism-Riot/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
